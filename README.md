@@ -7,7 +7,7 @@ And here are some of my favourite repos...
       <tr>
          <td>
             <a href="https://github.com/codingconcepts/dg">
-            <img src="https://github.com/codingconcepts/dg/blob/main/assets/cover.png" alt="drawing" width="150"/>
+            <img src="https://github.com/codingconcepts/dg/blob/main/assets/cover.png" alt="drawing" width="100"/>
             </a>
          </td>
          <td>dg is a fast data generator that produces CSV files from generated relational data.</td>
@@ -15,7 +15,7 @@ And here are some of my favourite repos...
       <tr>
          <td>
             <a href="https://github.com/codingconcepts/ds">
-            <img src="https://github.com/codingconcepts/ds/blob/main/assets/cover.png" alt="drawing" width="150"/>
+            <img src="https://github.com/codingconcepts/ds/blob/main/assets/cover.png" alt="drawing" width="100"/>
             </a>
          </td>
          <td>ds allows you to shift data between databases</td>
