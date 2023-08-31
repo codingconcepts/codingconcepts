@@ -2,7 +2,7 @@
 
 And here are some of my favourite repos...
 
-<table>
+<table style="border-collapse: collapse;">
    <tbody>
       <tr>
          <td>
