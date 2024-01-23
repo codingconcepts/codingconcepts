@@ -1,6 +1,6 @@
 # I'm Rob! 👋
 
-And here are some of my favourite repos...
+And here are some of my favourite repos at the moment:
 
 <div float="left">
    <img src="https://github.com/codingconcepts/dg/blob/main/assets/cover.png" alt="dg generates csvs from relational data" width="150"/>
